@@ -1,0 +1,266 @@
+{
+  "user": [
+    {
+      "id": "dbbd",
+      "username": "Rizwan",
+      "password": "1234",
+      "email": "r@gmail.com"
+    },
+    {
+      "id": "3ed0",
+      "username": "Pronoy",
+      "password": "1234",
+      "email": "p@gmail.com"
+    }
+  ],
+  "transaction": [
+    {
+      "id": "f893",
+      "type": "Income",
+      "category": "Food",
+      "amount": "3000",
+      "date": "2024-11-01T18:00:00.000Z",
+      "description": "vsfsgfg",
+      "userId": "1354"
+    },
+    {
+      "id": "e26f",
+      "type": "Expense",
+      "category": "Food",
+      "amount": "3000",
+      "date": "2024-11-01T18:00:00.000Z",
+      "description": "rwrwrfr",
+      "userId": "1354"
+    },
+    {
+      "id": "57e0",
+      "type": "Expense",
+      "category": "shoping",
+      "amount": "3000",
+      "date": "2024-10-31T18:00:00.000Z",
+      "description": "fafafaf",
+      "userId": "1354"
+    },
+    {
+      "id": "e75b",
+      "type": "Expense",
+      "category": "rent",
+      "amount": "2000",
+      "date": "2024-11-04T10:13:18.981Z",
+      "description": "home rent",
+      "userId": "dbbd"
+    },
+    {
+      "id": "f5b1",
+      "type": "Expense",
+      "category": "food",
+      "amount": "500",
+      "date": "2024-11-04T18:00:00.000Z",
+      "description": "basic foods",
+      "userId": "dbbd"
+    },
+    {
+      "id": "4ef9",
+      "type": "Expense",
+      "category": "water",
+      "amount": "60",
+      "date": "2024-11-05T18:00:00.000Z",
+      "description": "water bill",
+      "userId": "dbbd"
+    },
+    {
+      "id": "d888",
+      "type": "Income",
+      "category": "business",
+      "amount": "3000",
+      "date": "2024-11-03T18:00:00.000Z",
+      "description": "form business",
+      "userId": "dbbd"
+    },
+    {
+      "id": "51ab",
+      "type": "Income",
+      "category": "shop",
+      "amount": "2000",
+      "date": "2024-11-04T18:00:00.000Z",
+      "description": "from shop",
+      "userId": "dbbd"
+    },
+    {
+      "id": "238e",
+      "type": "Income",
+      "category": "apartment",
+      "amount": "1000",
+      "date": "2024-11-05T18:00:00.000Z",
+      "description": "from apratment",
+      "userId": "dbbd"
+    },
+    {
+      "id": "ff73",
+      "type": "Expense",
+      "category": "school",
+      "amount": "2000",
+      "date": "2024-11-06T13:41:28.816Z",
+      "description": "school fees",
+      "userId": "dbbd"
+    },
+    {
+      "id": "4ba1",
+      "type": "Income",
+      "category": "house",
+      "amount": "5000",
+      "date": "2024-11-06T13:43:53.920Z",
+      "description": "rent november",
+      "userId": "dbbd"
+    },
+    {
+      "id": "3031",
+      "type": "Expense",
+      "category": "entertainment",
+      "amount": "3000",
+      "date": "2024-11-06T13:51:58.645Z",
+      "description": "entertainment",
+      "userId": "dbbd"
+    }
+  ],
+  "budget": [
+    {
+      "id": "914b",
+      "category": "rent",
+      "month": "November",
+      "amount": "4000",
+      "userId": "dbbd"
+    },
+    {
+      "id": "93ca",
+      "category": "water",
+      "month": "November",
+      "amount": "100",
+      "userId": "dbbd"
+    },
+    {
+      "id": "2553",
+      "category": "school",
+      "month": "November",
+      "amount": "5000",
+      "userId": "dbbd"
+    },
+    {
+      "id": "aa35",
+      "category": "bike",
+      "month": "November",
+      "amount": "2000",
+      "userId": "dbbd"
+    },
+    {
+      "id": "2993",
+      "category": "food",
+      "month": "November",
+      "amount": "3000",
+      "userId": "dbbd"
+    },
+    {
+      "id": "dc04",
+      "category": "cloth",
+      "month": "November",
+      "amount": "305",
+      "userId": "dbbd"
+    },
+    {
+      "id": "8c09",
+      "category": "entertainment",
+      "month": "November",
+      "amount": "4000",
+      "userId": "dbbd"
+    },
+    {
+      "id": "16b0",
+      "amount": "4000",
+      "month": "December",
+      "category": "rent",
+      "userId": "dbbd"
+    },
+    {
+      "id": "200b",
+      "amount": "100",
+      "month": "December",
+      "category": "water",
+      "userId": "dbbd"
+    },
+    {
+      "id": "6344",
+      "category": "school",
+      "month": "December",
+      "amount": "1000",
+      "userId": "dbbd"
+    },
+    {
+      "id": "795e",
+      "amount": "2000",
+      "month": "December",
+      "category": "bike",
+      "userId": "dbbd"
+    },
+    {
+      "id": "6401",
+      "amount": "3000",
+      "month": "December",
+      "category": "food",
+      "userId": "dbbd"
+    },
+    {
+      "id": "bba4",
+      "amount": "305",
+      "month": "December",
+      "category": "cloth",
+      "userId": "dbbd"
+    },
+    {
+      "id": "80b9",
+      "amount": "4000",
+      "month": "December",
+      "category": "entertainment",
+      "userId": "dbbd"
+    }
+  ],
+  "income": [
+    {
+      "id": "7f5e",
+      "category": "business",
+      "amount": "20000",
+      "month": "November",
+      "userId": "dbbd"
+    },
+    {
+      "id": "afd1",
+      "category": "apartment",
+      "amount": "3000",
+      "month": "November",
+      "userId": "dbbd"
+    },
+    {
+      "id": "6cf4",
+      "category": "shop",
+      "amount": "5000",
+      "month": "November",
+      "userId": "dbbd"
+    },
+    {
+      "id": "83ca",
+      "category": "house",
+      "amount": "5000",
+      "month": "November",
+      "userId": "dbbd"
+    }
+  ],
+  "goal": [
+    {
+      "id": "1ec4",
+      "category": "tour",
+      "month": "November",
+      "amount": "4000",
+      "description": "tour to sjaek",
+      "userId": "dbbd"
+    }
+  ]
+}
